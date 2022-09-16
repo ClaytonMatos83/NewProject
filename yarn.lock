@@ -527,6 +527,11 @@ eslint-scope@^7.1.1:
     esrecurse "^4.3.0"
     estraverse "^5.2.0"
 
+eslint-staged@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-staged/-/eslint-staged-1.0.1.tgz#f3b76a8ffc541c174e2be1af29d31fefbe544334"
+  integrity sha512-W7/mq+GOmMDTDjPGTPsltvjQ36L7H/tHKgoXClVMnxMtUQi44xL/eSGKHnY2tsBnfONB/iSJpIOzZg1XkZ6rFA==
+
 eslint-utils@^2.0.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/eslint-utils/-/eslint-utils-2.1.0.tgz#d2de5e03424e707dc10c74068ddedae708741b27"
@@ -853,6 +858,11 @@ has@^1.0.3:
   integrity sha512-f2dvO0VU6Oej7RkWJGrehjbzMAjFp5/VKPp5tTpWIV4JHHZK1/BxbFRtf/siA2SWTe09caDmVtYYzWEIbBS4zw==
   dependencies:
     function-bind "^1.1.1"
+
+husky@^8.0.1:
+  version "8.0.1"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-8.0.1.tgz#511cb3e57de3e3190514ae49ed50f6bc3f50b3e9"
+  integrity sha512-xs7/chUH/CKdOCs7Zy0Aev9e/dKOMZf3K1Az1nar3tzlv0jfqnYtu235bstsWTmXOR0EfINrPa97yy4Lz6RiKw==
 
 ignore@^5.1.1, ignore@^5.2.0:
   version "5.2.0"
