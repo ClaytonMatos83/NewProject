@@ -1,0 +1,10 @@
+{
+  "name": "NewProject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Clayton Matos <clayton_matos@outlook.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3"
+  }
+}
